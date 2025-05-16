@@ -73,10 +73,6 @@ Contributions are welcome! Feel free to fork the project and submit pull request
 
 Below is the ERD illustrating the database schema and relationships for the Clinic Booking System:
 
-![ERD Diagram](## Entity-Relationship Diagram (ERD)
-
-Below is the ERD illustrating the database schema and relationships for the Clinic Booking System:
-
 ![Image](https://github.com/user-attachments/assets/7be4d903-c349-46d2-b853-4bde91c3d2b7)
 Contact
 For queries, please contact:
