@@ -1,10 +1,7 @@
 -- Database: ClinicBookingSystem
 CREATE DATABASE ClinicBookingSystem;
-USE ClinicBookingSystem;
--- Database: ClinicBookingSystem
-CREATE DATABASE ClinicBookingSystem;
-USE ClinicBookingSystem;
 
+USE ClinicBookingSystem;
 -- Table: Clinics
 CREATE TABLE Clinics (
     clinic_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -91,16 +88,6 @@ CREATE TABLE patient_Insurance (
     FOREIGN KEY (patient_id) REFERENCES Patients(patient_id) ON DELETE CASCADE
 );
 
--- Table: Services
-CREATE TABLE Services (
-    service_id INT AUTO_INCREMENT PRIMARY KEY,
-    clinic_id INT NOT NULL,
-    name VARCHAR(100),
-    duration INT, -- Duration in minutes
-    cost DECIMAL(10,2),
-    is_active BOOLEAN DEFAULT TRUE,
-    FOREIGN KEY (clinic_id) REFERENCES Clinics(clinic_id) ON DELETE CASCADE
-);
 
 -- Table: Doctor_Schedules
 CREATE TABLE Doctor_Schedules (
