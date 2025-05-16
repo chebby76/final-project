@@ -78,7 +78,7 @@ Below is the ERD illustrating the database schema and relationships for the Clin
 
 Below is the ERD illustrating the database schema and relationships for the Clinic Booking System:
 
-![ERD Diagram](![Image](https://github.com/user-attachments/assets/7be4d903-c349-46d2-b853-4bde91c3d2b7))
+![Image](https://github.com/user-attachments/assets/7be4d903-c349-46d2-b853-4bde91c3d2b7)
 Contact
 For queries, please contact:
 
