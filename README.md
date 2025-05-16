@@ -1,5 +1,4 @@
-Run
-Copy code
+
 # Clinic Booking System
 
 ## Project Overview
@@ -85,7 +84,7 @@ For queries, please contact:
 VIVIAN CHEBII
 Email: vchebby876@gmail.com
 GitHub: chebby76
-Run
+
 
 
 ---
