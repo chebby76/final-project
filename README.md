@@ -82,12 +82,12 @@ Below is the ERD illustrating the database schema and relationships for the Clin
 Contact
 For queries, please contact:
 
-Your Name
-Email: your.email@example.com
-GitHub: yourgithubusername
+VIVIAN CHEBII
+Email: vchebby876@gmail.com
+GitHub: chebby76
 Run
-Copy code
+
 
 ---
 
-This README provides a clear overview and usage
+
