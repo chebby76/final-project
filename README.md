@@ -70,10 +70,15 @@ WHERE a.doctor_id = 1 AND a.status = 'scheduled' AND a.appointment_date >= CURDA
 ORDER BY a.appointment_date, a.start_time;
 Contributing
 Contributions are welcome! Feel free to fork the project and submit pull requests for enhancements or bug fixes.
+## Entity-Relationship Diagram (ERD)
 
-License
-This project is licensed under the MIT License.
+Below is the ERD illustrating the database schema and relationships for the Clinic Booking System:
 
+![ERD Diagram](## Entity-Relationship Diagram (ERD)
+
+Below is the ERD illustrating the database schema and relationships for the Clinic Booking System:
+
+![ERD Diagram](./docs/clinic_booking_erd.png))
 Contact
 For queries, please contact:
 
